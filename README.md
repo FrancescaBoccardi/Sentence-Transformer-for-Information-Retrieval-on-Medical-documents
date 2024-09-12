@@ -14,7 +14,7 @@ Then, embeddings are used for performing, given a certain query, k-NN search on 
 
 ````
 .
-├── notebook                            # jupyter notebook containing the project's code with comments                
+├── notebook.ipynb                      # jupyter notebook containing the project's code with comments                
 ├── README.md
 ├── requirements.txt                    # necessary installations
 ````
